@@ -4,3 +4,4 @@
 
 Visit page: https://tutorial-erta.vercel.app/
 
+Deployed at: https://vercel.com/fradique/tutorial-erta
