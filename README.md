@@ -2,4 +2,4 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-xhid2v)
 
-[https://tutorial-erta.vercel.app/](https://tutorial-erta.vercel.app/)
+Visit page: https://tutorial-erta.vercel.app/
